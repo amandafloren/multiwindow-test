@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RunFeatureFile_SendChatIncognito</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edb00538-0653-44db-b3fa-ff92f16229ca</testCaseGuid>
+</TestCaseEntity>
