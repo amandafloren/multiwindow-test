@@ -1,3 +1,3 @@
 # multiwindow-test
 
-Test result video: [Google drive link](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)
+Test result video: [Google drive link](https://drive.google.com/file/d/1MkVlHIautZOFmworEDu2aKnhFm4RznqS/view?usp=share_link)
